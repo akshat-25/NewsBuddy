@@ -1,5 +1,6 @@
 # NewsBuddy
 
-A new Flutter project.
+<img src="https://github.com/akshat-25/NewsBuddy/blob/master/assets/sc1.jpg" width="200" height="400">
 
-![](https://github.com/akshat-25/NewsBuddy/blob/master/assets/sc1.jpg)
+<img src="https://github.com/akshat-25/NewsBuddy/blob/master/assets/sc2.jpg" width="200" height="400">
+
